@@ -12,7 +12,7 @@ Build an application that will help establish connections between people in a co
 * Users can communicate by sending comments to any request. 
 * Notify post owner and commenters when any comment is posted.
       
-**Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.**.   
+*Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.*.   
   
 ### Submission Requirements:
 Please make sure you submit the following requirements:  
