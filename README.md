@@ -9,7 +9,7 @@ Build an application that will help establish connections between people in a co
 * Paginate posts in 25 results per page.
 * Users can change their city to a different one.
 * Posts are ordered by date and expire after 24 hours.
-* Users can communicate by sending comments on the any request. 
+* Users can communicate by sending comments to any request. 
 * Notify post owner and commenters when any comment is posted.
       
 **Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.**.   
