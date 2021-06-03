@@ -14,7 +14,7 @@ Build an application that will help establish connections between people in a co
       
 **Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.**.   
   
-## Submission Requirements:
+### Submission Requirements:
 Please make sure you submit the following requirements:  
 * A paper with full details about your backend/frontend architecture.
 * A client Angular application and Express server.
