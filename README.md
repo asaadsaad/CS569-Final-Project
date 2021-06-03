@@ -5,7 +5,8 @@ Build an application that will help establish connections between people in a co
 ### General use case and requirements
 * User 1 needs the backyard lawn to me mowed.
 * User 2 has a lawn mower and would like to contribute helping their community.
-* Users can browse all "Service Needed" or "Service Provided" tabs in their city. 
+* Users can browse "Service Needed" or "Service Provided" tabs in their city. 
+* Paginate posts in 25 results per page.
 * Users can change their city to a different one.
 * Posts are ordered by date and expire after 24 hours.
 * Users can communicate by sending comments on the any request. 
