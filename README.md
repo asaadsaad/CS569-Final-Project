@@ -1,7 +1,7 @@
 # CS569 - Web Application Development II
 ## Final Project 
 ### Application specifications 
-Build an application that will help establish connections between people in a community/city. Only authenticated users will be able to post to the system. The idea is to allow users within the same city to communicate, ask for services and allow volunteers to provide the service.
+Build an application that will help establish connections between people in a community/city. Only authenticated users will be able to post to the system. The idea is to allow users within the same city to communicate, ask for services, and allow volunteers to provide the service.
 ### General use case and requirements
 * User 1 needs the backyard lawn to me mowed.
 * User 2 has a lawn mower and would like to contribute helping their community.
