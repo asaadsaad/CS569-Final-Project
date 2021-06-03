@@ -19,6 +19,6 @@ Please make sure you submit the following requirements:
 * A paper with full details about your backend/frontend architecture.
 * A client Angular application and Express server.
 
-**Deadline is Wednesday, June 9th, 10:00 AM** 
+**Deadline and presentation on Wednesday, June 9th, 10:00 AM** 
   
 **Good luck and happy coding!**
