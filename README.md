@@ -6,6 +6,7 @@ Build an application that will help establish connections between people in a co
 * User 1 need their lawn to me mowed.
 * User 2 has a lawn mower and would like to contribute helping their community.
 * Users can browse all "Service Needed" or "Service Provided" tabs in their city. 
+* Users can change their city to a different one.
 * Posts are ordered by date and expire after 24 hours.
 * Users can communicate by sending comments on the any request. 
 * Notify post owner and commenters when any comment is posted.
