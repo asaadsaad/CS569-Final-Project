@@ -11,7 +11,7 @@ Build an application that will help establish skilled workers offer their servic
 * Users can change their city to a different one from a list of states/cities to browse posts from other areas.
 * Posts are ordered by date (newest first) and expire after 48 hours.
 * Users can communicate by posting comments (Q/A)  to any post.
-* *Optional: Design Service-Side-Events (SSE) notification system to notify post owners and commenters when any comment is posted (2 extra points added to your final course grade).*
+* *Optional: Design Server-Side-Events (SSE) notification system to notify post owners and commenters when any comment is posted (2 extra points added to your final course grade).*
       
 *Remember to respect the code honor submission policy. All written code must be original. Presenting any code as one’s own work when it came from another source is plagiarism and is forbidden and will result to receiving NC for the course. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.*
   
