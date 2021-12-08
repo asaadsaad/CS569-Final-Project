@@ -17,7 +17,7 @@ Build an application that will help establish skilled workers offer their servic
   
 ### Submission Requirements:
 Please make sure you prepare the following requirements before your presentation:  
-* A paper with your backend/frontend architecture.
+* A paper with your backend/frontend architecture. The backend architecture includes all your REST entities and routes. The frontend architecture includes your modules, what each module has (components, directives, and services) and how they are all connected.
 
 **Deadline and presentation on Wednesday, December 15th, starting at 10:00 AM** 
   
