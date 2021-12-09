@@ -20,7 +20,7 @@ Build an application that will help establish skilled workers to offer their ser
 Please make sure you prepare the following requirements before your presentation:  
 * A paper with your backend/frontend architecture, and how security is implemented? The backend architecture includes your DB schema, along with all your REST entities and routes. The frontend architecture includes your modules, what each module has (components, directives, and services), and how they are all connected.   
    
-**You may request a technical meeting on Monday, December 13th, send me an email to schedule your meeting.**   
+**For support, send me an email to schedule a technical meeting.**   
 **Deadline and presentations on Wednesday, December 15th, starting at 10:00 AM.**   
   
 **Good luck and happy coding!**
